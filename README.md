@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hi, I’m David Tauraso. I have a degree in Computer Science from Sonoma State University and recently completed my Full-Stack web dev track at Lambda School.
+
+# prjoects I've completed:
+- [Dev Help Desk](https://github.com/BW-Dev-Desk-Queue-1/Back-End): Ticket application
+- [Celeb Dead or Alive](https://github.com/dtauraso/Front-End-1): Celeb guess quiz
+- [Sauti Databank](https://github.com/Lambda-School-Labs/sauti-databank-fe): Data visualizer for cross border traders located in Africa 
+
+
 <!--
 **dtauraso/dtauraso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
